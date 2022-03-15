@@ -15,7 +15,9 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 <img width="10%" height="10%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--54ca_F2q--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/1wwdyw5de8avrdkgtz5n.png">
 <img width="10%" height="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png">
 <img width="10%" height="10%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XIfwAkPT--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png">
- <img width="15%" height="15%" src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png">
+<img width="15%" height="15%" src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png">
+<img width="15%" height="15%" src="">
+
   
 </div>
 
