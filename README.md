@@ -19,6 +19,6 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 </div>
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 
-[![ale text]("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png")]("www.linkedin.com/in/vaibhav-upasani-523429192")
+[![ale text]("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png")](www.linkedin.com/in/vaibhav-upasani-523429192)
 
 
