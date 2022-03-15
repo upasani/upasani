@@ -26,14 +26,6 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
   <br/>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upasani&show_icons=true&locale=en&theme=highcontrast" alt="" /></p>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upasani&&theme=highcontrast" alt="shashifw11" /></p>
-
-
-<br/>
-<br/>
-
-
-
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 
 <p align="left">
