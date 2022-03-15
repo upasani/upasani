@@ -19,8 +19,5 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 </div>
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 <img width="7%" height="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"><a href="www.linkedin.com/in/vaibhav-upasani-523429192"> </a>
-
-<a href="www.linkedin.com/in/vaibhav-upasani-523429192" target="_blank"><img src="https://camo.githubusercontent.com/67f94c3c3d41ef3b0aca79b4afb61ec513b469bfc51d0b3ecc5e5e18c6228854/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e672f38303070782d4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
+[https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png](www.linkedin.com/in/vaibhav-upasani-523429192)
 
