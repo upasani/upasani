@@ -20,6 +20,11 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 </div>
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 
-<a href="www.linkedin.com/in/vaibhav-upasani-523429192"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png"></a>
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shashi-kumar-0a4835150/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+ * Mail me on shekhar.shashi735@gmail.com
+
+</p>
 
 
