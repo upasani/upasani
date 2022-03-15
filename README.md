@@ -22,10 +22,9 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 ## 📊 My Github Stats
 
   <br/>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upasai&show_icons=true&locale=en&theme=highcontrast" alt="" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upasani&show_icons=true&locale=en&theme=highcontrast" alt="" /></p>
 <br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upasani&&theme=highcontrast" alt="shashifw11" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
