@@ -20,4 +20,7 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 <img width="7%" height="7%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"><a href="www.linkedin.com/in/vaibhav-upasani-523429192"> </a>
 
+<a href="" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 
