@@ -18,6 +18,21 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 <img width="10%" height="10%" src="https://res.cloudinary.com/practicaldev/image/fetch/s--XIfwAkPT--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zojuy79lo3fn3qdt7g6p.png">
 <img width="15%" height="15%" src="https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png">
 </div>
+
+## 📊 My Github Stats
+
+  <br/>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upasani&show_icons=true&locale=en&theme=highcontrast" alt="Abhijeet9242" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upasani&&theme=highcontrast" alt="shashifw11" /></p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+
+
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 
 <p align="left">
