@@ -5,6 +5,7 @@
 Completed my M.Sc in Computer Science always fascinating towards the coding and that my main key interest.Got the hands on experience on coding.Exicted to be part of the challenging envirnment.I have developed good problem solving skills that is necassary to solve the complex problem.
 <li>🌱Aspiring Full Stack Web Developer</li>
 <li>👨🏻‍🎓Currently learning the <b>MERN Stack </b> At Masai School</li>
+<li>I'm Currently leaning the Data Structure and Algorithm</li>
 <li>👨‍💻 All my project is available at <a href="">PortFolio</a></li>
   
 
@@ -19,6 +20,6 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 </div>
 <h2>Let's Connect <img width="8%" height="8%" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h2>
 
-[![ale text]("https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png")](www.linkedin.com/in/vaibhav-upasani-523429192)
+<a href="www.linkedin.com/in/vaibhav-upasani-523429192"></a>
 
 
