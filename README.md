@@ -22,8 +22,7 @@ Completed my M.Sc in Computer Science always fascinating towards the coding and 
 
 <p align="left">
 
-<a href = "www.linkedin.com/in/vaibhav-upasani-523429192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
- * Mail me on shekhar.shashi735@gmail.com
+<a href = "https://www.linkedin.com/in/vaibhav-upasani-523429192/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
