@@ -5,8 +5,8 @@
  </p>
 <h1>About me</h1>
 Completed my M.Sc in Computer Science always fascinating towards the coding and that my main key interest.Got the hands on experience on coding.Exicted to be part of the challenging envirnment.I have developed good problem solving skills that is necassary to solve the complex problem.
-<li>🌱Aspiring Full Stack Web Developer</li>
-<li>👨🏻‍🎓Currently learning the <b>MERN Stack </b> At Masai School</li>
+<li>🌱Full Stack Web Developer</li>
+<li>👨🏻‍🎓 <b>MERN Stack </b> At Masai School</li>
 <li>👯 I'm Currently leaning the Data Structure and Algorithm</li>
 <li>👨‍💻 All my project is available at <a href="">PortFolio</a></li>
   
